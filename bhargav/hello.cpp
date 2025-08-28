@@ -20,4 +20,4 @@ int main() {
     else
         cout << num << " is not a prime number." << endl;
     return 0;
-}
+}̥̥̥̥
